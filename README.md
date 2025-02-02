@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Spicewood
-- 👀 I’m interested in all things video game development related
-- 🌱 I’m currently learning Unity, C#, and C++
-- 😄 Pronouns: any/all
+hi im spice! im a gamedev student and i go by he/they
 
 <!---
 spicewooddev/spicewooddev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
